@@ -1,10 +1,10 @@
-# cse210-ww-student-template
-This is the starter code for students in the worldwide content version of CSE 210.
+# CSE210 Programming With Classes
 
-This repository contains the starter code for many different projects. They are arranged as follows:
+Welcome to my GitHub repository for the CSE 210 worldwide content course! This repository is a hub of starter code designed to support students through various stages of learning and project development. Inside, you'll find:
 
-* `sandbox` - An empty project that you can use to play around with any concepts you like.
-* `csharp-prep` - Starter projects for each of the C# Prep assignments.
-* `prepare` - Starter projects for each of the preparation Learning Activities.
-* `prove` - Starter projects for each of the prove Developer projects.
-* `final` - Starter projects for final project.
+A sandbox directory for experimenting with any concepts.
+The csharp-prep folder, containing starter projects for C# preparation assignments.
+The prepare section, with starter projects tailored for the preparatory Learning Activities.
+A prove area, with initial projects set up for the prove Developer projects.
+And finally, a final folder, which includes starter projects for your final project.
+Feel free to explore and use the resources as you progress through the course!
